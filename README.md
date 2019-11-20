@@ -1,14 +1,19 @@
-# Trabalho de Gerência de Configuração
+# TrabalhoGerenciaConfiguracao
 Trabalho da disciplina Gerência de Configuração de Software - FACOM/UFMS
 
 
 #Quadro de resposabilidades:
-- Ana: - Testes
+- Ana:  
+      - Testes
       
-- Paulo: - Requisitos
+- Paulo:
+      - Requisitos
       
-- João: - Modelos
+- João:
+      - Modelos
       
-- Gabriel: - Back-end
+- Gabriel:
+      - Back-end
       
-- Pedro: - Front-end
+-Pedro:
+      - Front-end
